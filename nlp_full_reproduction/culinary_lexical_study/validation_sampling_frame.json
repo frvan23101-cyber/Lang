@@ -1,0 +1,1228 @@
+{
+  "snapshot_date": "2026-11-08",
+  "category_page_counts": {
+    "en": 45,
+    "fr": 73,
+    "de": 32
+  },
+  "category_pages": {
+    "en": [
+      {
+        "id": 54,
+        "title": "Cookbook:A Nice Cup of Tea"
+      },
+      {
+        "id": 55,
+        "title": "Cookbook:Acid Drops"
+      },
+      {
+        "id": 56,
+        "title": "Cookbook:Bacon and Egg Pie"
+      },
+      {
+        "id": 57,
+        "title": "Cookbook:Banana Caramel Dessert"
+      },
+      {
+        "id": 58,
+        "title": "Cookbook:Bangers and Mash"
+      },
+      {
+        "id": 59,
+        "title": "Cookbook:British Christmas Pudding"
+      },
+      {
+        "id": 60,
+        "title": "Cookbook:Bubble and Squeak"
+      },
+      {
+        "id": 61,
+        "title": "Cookbook:Caramel Squares"
+      },
+      {
+        "id": 62,
+        "title": "Cookbook:Chicken Tikka Masala"
+      },
+      {
+        "id": 63,
+        "title": "Cookbook:Chip Butty"
+      },
+      {
+        "id": 64,
+        "title": "Cookbook:Corned Beef Pie"
+      },
+      {
+        "id": 65,
+        "title": "Cookbook:Coronation Chicken"
+      },
+      {
+        "id": 66,
+        "title": "Cookbook:English Breakfast"
+      },
+      {
+        "id": 67,
+        "title": "Cookbook:Fish and Chips"
+      },
+      {
+        "id": 68,
+        "title": "Cookbook:Hot Water Crust Pastry"
+      },
+      {
+        "id": 69,
+        "title": "Cookbook:Jam Roly-Poly"
+      },
+      {
+        "id": 70,
+        "title": "Cookbook:Kedgeree (Rice and Smoked Fish)"
+      },
+      {
+        "id": 71,
+        "title": "Cookbook:Lady Arundel's Manchet"
+      },
+      {
+        "id": 72,
+        "title": "Cookbook:Lancashire Corned Beef Hash"
+      },
+      {
+        "id": 73,
+        "title": "Cookbook:Lancashire Hotpot"
+      },
+      {
+        "id": 74,
+        "title": "Cookbook:Lentil, Barley, and Tomato Soup"
+      },
+      {
+        "id": 75,
+        "title": "Cookbook:Liverpool Lamb and Vegetable Soup (Scouse)"
+      },
+      {
+        "id": 76,
+        "title": "Cookbook:Mincemeat Tart"
+      },
+      {
+        "id": 77,
+        "title": "Cookbook:Mushy Peas"
+      },
+      {
+        "id": 78,
+        "title": "Cookbook:North Staffordshire Oatcakes"
+      },
+      {
+        "id": 79,
+        "title": "Cookbook:Pastry for Cornish Pasties"
+      },
+      {
+        "id": 80,
+        "title": "Cookbook:Pease Pudding"
+      },
+      {
+        "id": 81,
+        "title": "Cookbook:Potato Pudding"
+      },
+      {
+        "id": 82,
+        "title": "Cookbook:Queen of Puddings"
+      },
+      {
+        "id": 83,
+        "title": "Cookbook:Rhubarb Crumble I"
+      },
+      {
+        "id": 84,
+        "title": "Cookbook:Rhubarb Crumble II"
+      },
+      {
+        "id": 85,
+        "title": "Cookbook:Rhubarb Crumble III"
+      },
+      {
+        "id": 86,
+        "title": "Cookbook:Roast Beef"
+      },
+      {
+        "id": 87,
+        "title": "Cookbook:Sausagemeat Pie"
+      },
+      {
+        "id": 88,
+        "title": "Cookbook:Shrewsbury Cakes"
+      },
+      {
+        "id": 89,
+        "title": "Cookbook:Sponge Cake I"
+      },
+      {
+        "id": 90,
+        "title": "Cookbook:Steak and Ale Pie"
+      },
+      {
+        "id": 91,
+        "title": "Cookbook:Strawberry and Yogurt Eton Mess"
+      },
+      {
+        "id": 92,
+        "title": "Cookbook:Summer Pudding"
+      },
+      {
+        "id": 93,
+        "title": "Cookbook:Toad in the Hole"
+      },
+      {
+        "id": 94,
+        "title": "Cookbook:Trifle"
+      },
+      {
+        "id": 95,
+        "title": "Cookbook:Victoria Sandwich"
+      },
+      {
+        "id": 96,
+        "title": "Cookbook:Yeasted Vanilla Sponge Cake"
+      },
+      {
+        "id": 97,
+        "title": "Cookbook:Yorkshire Pudding"
+      },
+      {
+        "id": 98,
+        "title": "Cookbook:Yorkshire Pudding (Vegan)"
+      }
+    ],
+    "fr": [
+      {
+        "id": 128,
+        "title": "Livre de cuisine/Aïga bolhida"
+      },
+      {
+        "id": 129,
+        "title": "Livre de cuisine/Blettes à la voironnaise"
+      },
+      {
+        "id": 130,
+        "title": "Livre de cuisine/Caïon"
+      },
+      {
+        "id": 131,
+        "title": "Livre de cuisine/Clafoutis aux abricots"
+      },
+      {
+        "id": 119,
+        "title": "Livre de cuisine/Coq au vin"
+      },
+      {
+        "id": 132,
+        "title": "Livre de cuisine/Crème catalane"
+      },
+      {
+        "id": 127,
+        "title": "Livre de cuisine/Crêpe Suzette"
+      },
+      {
+        "id": 133,
+        "title": "Livre de cuisine/Croque-monsieur"
+      },
+      {
+        "id": 134,
+        "title": "Livre de cuisine/Cuisses de grenouilles à l'ail et au persil"
+      },
+      {
+        "id": 135,
+        "title": "Livre de cuisine/Boissons/Cocktails/Embuscade"
+      },
+      {
+        "id": 121,
+        "title": "Livre de cuisine/Escargot de Bourgogne"
+      },
+      {
+        "id": 136,
+        "title": "Livre de cuisine/Farinade"
+      },
+      {
+        "id": 137,
+        "title": "Livre de cuisine/Ficelle picarde"
+      },
+      {
+        "id": 108,
+        "title": "Livre de cuisine/Flamusse bourguignonne"
+      },
+      {
+        "id": 138,
+        "title": "Livre de cuisine/Flaugnarde"
+      },
+      {
+        "id": 139,
+        "title": "Livre de cuisine/Fondue bressane"
+      },
+      {
+        "id": 140,
+        "title": "Livre de cuisine/Fouée"
+      },
+      {
+        "id": 141,
+        "title": "Livre de cuisine/Frites de cantal"
+      },
+      {
+        "id": 142,
+        "title": "Livre de cuisine/Galette de Lisieux"
+      },
+      {
+        "id": 143,
+        "title": "Livre de cuisine/Gâteau de pommes de terre"
+      },
+      {
+        "id": 124,
+        "title": "Livre de cuisine/Gaudes"
+      },
+      {
+        "id": 144,
+        "title": "Livre de cuisine/Boissons/Cocktails/GDF"
+      },
+      {
+        "id": 123,
+        "title": "Livre de cuisine/Gratin dauphinois"
+      },
+      {
+        "id": 145,
+        "title": "Livre de cuisine/Gratin de potiron"
+      },
+      {
+        "id": 146,
+        "title": "Livre de cuisine/Boissons/Cocktails/Hypocras"
+      },
+      {
+        "id": 147,
+        "title": "Livre de cuisine/Lapin chasseur"
+      },
+      {
+        "id": 125,
+        "title": "Livre de cuisine/Madeleine"
+      },
+      {
+        "id": 115,
+        "title": "Livre de cuisine/Magret de canard au miel"
+      },
+      {
+        "id": 148,
+        "title": "Livre de cuisine/Pissaladière"
+      },
+      {
+        "id": 110,
+        "title": "Livre de cuisine/Recettes auvergnate"
+      },
+      {
+        "id": 111,
+        "title": "Livre de cuisine/Recettes de la Provence"
+      },
+      {
+        "id": 112,
+        "title": "Livre de cuisine/Recettes franc-comtoise"
+      },
+      {
+        "id": 149,
+        "title": "Livre de cuisine/Macarons d'Amiens"
+      },
+      {
+        "id": 113,
+        "title": "Livre de cuisine/Macarons de Montmorillon"
+      },
+      {
+        "id": 118,
+        "title": "Livre de cuisine/Macarons Parisiens"
+      },
+      {
+        "id": 122,
+        "title": "Livre de cuisine/Magret de canard"
+      },
+      {
+        "id": 150,
+        "title": "Livre de cuisine/Michon"
+      },
+      {
+        "id": 151,
+        "title": "Livre de cuisine/Mousse au chocolat"
+      },
+      {
+        "id": 152,
+        "title": "Livre de cuisine/Mousse au chocolat au cognac"
+      },
+      {
+        "id": 153,
+        "title": "Livre de cuisine/Mousse au chocolat au cremovo"
+      },
+      {
+        "id": 116,
+        "title": "Livre de cuisine/Mousse au chocolat aux œufs cuits"
+      },
+      {
+        "id": 154,
+        "title": "Livre de cuisine/Mousse au chocolat avec alcool"
+      },
+      {
+        "id": 155,
+        "title": "Livre de cuisine/Mousse au chocolat légère"
+      },
+      {
+        "id": 156,
+        "title": "Livre de cuisine/Pastis landais"
+      },
+      {
+        "id": 157,
+        "title": "Livre de cuisine/Pastizzu"
+      },
+      {
+        "id": 158,
+        "title": "Livre de cuisine/Péla"
+      },
+      {
+        "id": 126,
+        "title": "Livre de cuisine/Pot-au-feu"
+      },
+      {
+        "id": 159,
+        "title": "Livre de cuisine/Potée bourguignonne"
+      },
+      {
+        "id": 160,
+        "title": "Livre de cuisine/Potjevleesch2"
+      },
+      {
+        "id": 161,
+        "title": "Livre de cuisine/Poulet basquaise"
+      },
+      {
+        "id": 114,
+        "title": "Livre de cuisine/Poulet de Janzé à la normande"
+      },
+      {
+        "id": 162,
+        "title": "Livre de cuisine/Prunat"
+      },
+      {
+        "id": 163,
+        "title": "Livre de cuisine/Rapée"
+      },
+      {
+        "id": 164,
+        "title": "Livre de cuisine/Riz à la Catalane"
+      },
+      {
+        "id": 165,
+        "title": "Livre de cuisine/Rôti de porc"
+      },
+      {
+        "id": 166,
+        "title": "Livre de cuisine/Rouille (cuisine)"
+      },
+      {
+        "id": 167,
+        "title": "Livre de cuisine/Rouille à la sétoise"
+      },
+      {
+        "id": 168,
+        "title": "Livre de cuisine/Ruifard de Valbonnais"
+      },
+      {
+        "id": 169,
+        "title": "Livre de cuisine/Salade landaise"
+      },
+      {
+        "id": 170,
+        "title": "Livre de cuisine/Salade niçoise"
+      },
+      {
+        "id": 171,
+        "title": "Livre de cuisine/Salmis"
+      },
+      {
+        "id": 172,
+        "title": "Livre de cuisine/Sauce Romesco"
+      },
+      {
+        "id": 173,
+        "title": "Livre de cuisine/Socca"
+      },
+      {
+        "id": 174,
+        "title": "Livre de cuisine/Soufflé jasmina"
+      },
+      {
+        "id": 175,
+        "title": "Livre de cuisine/Tarte au comté"
+      },
+      {
+        "id": 109,
+        "title": "Livre de cuisine/Tarte en quemeu"
+      },
+      {
+        "id": 176,
+        "title": "Livre de cuisine/Tarte flambée"
+      },
+      {
+        "id": 117,
+        "title": "Livre de cuisine/Tarte Tatin"
+      },
+      {
+        "id": 177,
+        "title": "Livre de cuisine/Tartines gratinées au sainte-maure-de-touraine"
+      },
+      {
+        "id": 120,
+        "title": "Livre de cuisine/Boissons/Cocktails/TNT"
+      },
+      {
+        "id": 178,
+        "title": "Livre de cuisine/Tourin"
+      },
+      {
+        "id": 179,
+        "title": "Livre de cuisine/Tourtou"
+      },
+      {
+        "id": 180,
+        "title": "Livre de cuisine/Truite au vin jaune"
+      }
+    ],
+    "de": [
+      {
+        "id": 41,
+        "title": "Kochbuch/ Bentheimer Moppen"
+      },
+      {
+        "id": 42,
+        "title": "Kochbuch/ Berliner Pfannkuchen"
+      },
+      {
+        "id": 43,
+        "title": "Kochbuch/ Birnen, Bohnen und Speck"
+      },
+      {
+        "id": 44,
+        "title": "Kochbuch/ Bratkartoffeln"
+      },
+      {
+        "id": 45,
+        "title": "Kochbuch/ Bremer bunte Finken"
+      },
+      {
+        "id": 46,
+        "title": "Kochbuch/ Eierpfannkuchen"
+      },
+      {
+        "id": 47,
+        "title": "Kochbuch/ Frankfurter Apfelkuchen"
+      },
+      {
+        "id": 48,
+        "title": "Kochbuch/ Fuddelsuppe"
+      },
+      {
+        "id": 49,
+        "title": "Kochbuch/ Förtchen"
+      },
+      {
+        "id": 50,
+        "title": "Kochbuch/ Grüne Sauce"
+      },
+      {
+        "id": 51,
+        "title": "Kochbuch/ Hamelner Rattenschwänze"
+      },
+      {
+        "id": 52,
+        "title": "Kochbuch/ Hühnerbrust auf Rahmwirsing mit Kartoffelpüree"
+      },
+      {
+        "id": 53,
+        "title": "Kochbuch/ Kartoffelpfanne mit Forelle und Erbsenschoten"
+      },
+      {
+        "id": 54,
+        "title": "Kochbuch/ Kirschenmichel"
+      },
+      {
+        "id": 55,
+        "title": "Kochbuch/ Hutzelbrot"
+      },
+      {
+        "id": 56,
+        "title": "Kochbuch/ Kölscher Kaviar"
+      },
+      {
+        "id": 57,
+        "title": "Kochbuch/ Krautspätzle"
+      },
+      {
+        "id": 58,
+        "title": "Kochbuch/ Kässpätzle"
+      },
+      {
+        "id": 59,
+        "title": "Kochbuch/ Leberknödel"
+      },
+      {
+        "id": 60,
+        "title": "Kochbuch/ Mädchenröte"
+      },
+      {
+        "id": 61,
+        "title": "Kochbuch/ Neujahrshörnchen"
+      },
+      {
+        "id": 62,
+        "title": "Kochbuch/ Nonnenfürzchen"
+      },
+      {
+        "id": 63,
+        "title": "Kochbuch/ Potthucke"
+      },
+      {
+        "id": 64,
+        "title": "Kochbuch/ Rheinische Muscheln"
+      },
+      {
+        "id": 65,
+        "title": "Kochbuch/ Schmalznudeln"
+      },
+      {
+        "id": 66,
+        "title": "Kochbuch/ Sonneberger Klöße"
+      },
+      {
+        "id": 67,
+        "title": "Kochbuch/ Spätzle"
+      },
+      {
+        "id": 68,
+        "title": "Kochbuch/ Struwen"
+      },
+      {
+        "id": 69,
+        "title": "Kochbuch/ Westfälische Götterspeise"
+      },
+      {
+        "id": 70,
+        "title": "Kochbuch/ Westfälisches Blindhuhn"
+      },
+      {
+        "id": 71,
+        "title": "Kochbuch/ Druckversion"
+      },
+      {
+        "id": 72,
+        "title": "Kochbuch/ Zwiebelkuchen"
+      }
+    ]
+  },
+  "previous_development_titles": [
+    {
+      "language": "en",
+      "title": "Cookbook:A Nice Cup of Tea"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Acid Drops"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Bacon and Egg Pie"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Banana Caramel Dessert"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Bangers and Mash"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:British Christmas Pudding"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Bubble and Squeak"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Caramel Squares"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Chicken Tikka Masala"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Chip Butty"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Corned Beef Pie"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Coronation Chicken"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:English Breakfast"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Fish and Chips"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Hot Water Crust Pastry"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Jam Roly-Poly"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Kedgeree (Rice and Smoked Fish)"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Lady Arundel's Manchet"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Lancashire Corned Beef Hash"
+    },
+    {
+      "language": "en",
+      "title": "Cookbook:Lancashire Hotpot"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Aïga bolhida"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Blettes à la voironnaise"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Caïon"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Clafoutis aux abricots"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Coq au vin"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Crème catalane"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Crêpe Suzette"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Croque-monsieur"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Cuisses de grenouilles à l'ail et au persil"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Boissons/Cocktails/Embuscade"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Escargot de Bourgogne"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Farinade"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Ficelle picarde"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Flamusse bourguignonne"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Flaugnarde"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Fondue bressane"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Fouée"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Frites de cantal"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Galette de Lisieux"
+    },
+    {
+      "language": "fr",
+      "title": "Livre de cuisine/Gâteau de pommes de terre"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Bentheimer Moppen"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Berliner Pfannkuchen"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Birnen, Bohnen und Speck"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Bratkartoffeln"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Bremer bunte Finken"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Eierpfannkuchen"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Frankfurter Apfelkuchen"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Fuddelsuppe"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Förtchen"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Grüne Sauce"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Hamelner Rattenschwänze"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Hühnerbrust auf Rahmwirsing mit Kartoffelpüree"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Kartoffelpfanne mit Forelle und Erbsenschoten"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Kirschenmichel"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Hutzelbrot"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Kölscher Kaviar"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Krautspätzle"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Kässpätzle"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Leberknödel"
+    },
+    {
+      "language": "de",
+      "title": "Kochbuch/ Mädchenröte"
+    }
+  ],
+  "unseen_ranked_pages": {
+    "en": [
+      {
+        "id": 85,
+        "title": "Cookbook:Rhubarb Crumble III"
+      },
+      {
+        "id": 74,
+        "title": "Cookbook:Lentil, Barley, and Tomato Soup"
+      },
+      {
+        "id": 91,
+        "title": "Cookbook:Strawberry and Yogurt Eton Mess"
+      },
+      {
+        "id": 96,
+        "title": "Cookbook:Yeasted Vanilla Sponge Cake"
+      },
+      {
+        "id": 98,
+        "title": "Cookbook:Yorkshire Pudding (Vegan)"
+      },
+      {
+        "id": 92,
+        "title": "Cookbook:Summer Pudding"
+      },
+      {
+        "id": 88,
+        "title": "Cookbook:Shrewsbury Cakes"
+      },
+      {
+        "id": 90,
+        "title": "Cookbook:Steak and Ale Pie"
+      },
+      {
+        "id": 76,
+        "title": "Cookbook:Mincemeat Tart"
+      },
+      {
+        "id": 95,
+        "title": "Cookbook:Victoria Sandwich"
+      },
+      {
+        "id": 81,
+        "title": "Cookbook:Potato Pudding"
+      },
+      {
+        "id": 83,
+        "title": "Cookbook:Rhubarb Crumble I"
+      },
+      {
+        "id": 82,
+        "title": "Cookbook:Queen of Puddings"
+      },
+      {
+        "id": 89,
+        "title": "Cookbook:Sponge Cake I"
+      },
+      {
+        "id": 93,
+        "title": "Cookbook:Toad in the Hole"
+      },
+      {
+        "id": 77,
+        "title": "Cookbook:Mushy Peas"
+      },
+      {
+        "id": 80,
+        "title": "Cookbook:Pease Pudding"
+      },
+      {
+        "id": 78,
+        "title": "Cookbook:North Staffordshire Oatcakes"
+      },
+      {
+        "id": 87,
+        "title": "Cookbook:Sausagemeat Pie"
+      },
+      {
+        "id": 84,
+        "title": "Cookbook:Rhubarb Crumble II"
+      },
+      {
+        "id": 97,
+        "title": "Cookbook:Yorkshire Pudding"
+      },
+      {
+        "id": 94,
+        "title": "Cookbook:Trifle"
+      },
+      {
+        "id": 79,
+        "title": "Cookbook:Pastry for Cornish Pasties"
+      },
+      {
+        "id": 86,
+        "title": "Cookbook:Roast Beef"
+      },
+      {
+        "id": 75,
+        "title": "Cookbook:Liverpool Lamb and Vegetable Soup (Scouse)"
+      }
+    ],
+    "fr": [
+      {
+        "id": 156,
+        "title": "Livre de cuisine/Pastis landais"
+      },
+      {
+        "id": 174,
+        "title": "Livre de cuisine/Soufflé jasmina"
+      },
+      {
+        "id": 171,
+        "title": "Livre de cuisine/Salmis"
+      },
+      {
+        "id": 178,
+        "title": "Livre de cuisine/Tourin"
+      },
+      {
+        "id": 115,
+        "title": "Livre de cuisine/Magret de canard au miel"
+      },
+      {
+        "id": 109,
+        "title": "Livre de cuisine/Tarte en quemeu"
+      },
+      {
+        "id": 145,
+        "title": "Livre de cuisine/Gratin de potiron"
+      },
+      {
+        "id": 173,
+        "title": "Livre de cuisine/Socca"
+      },
+      {
+        "id": 146,
+        "title": "Livre de cuisine/Boissons/Cocktails/Hypocras"
+      },
+      {
+        "id": 160,
+        "title": "Livre de cuisine/Potjevleesch2"
+      },
+      {
+        "id": 172,
+        "title": "Livre de cuisine/Sauce Romesco"
+      },
+      {
+        "id": 125,
+        "title": "Livre de cuisine/Madeleine"
+      },
+      {
+        "id": 169,
+        "title": "Livre de cuisine/Salade landaise"
+      },
+      {
+        "id": 161,
+        "title": "Livre de cuisine/Poulet basquaise"
+      },
+      {
+        "id": 158,
+        "title": "Livre de cuisine/Péla"
+      },
+      {
+        "id": 110,
+        "title": "Livre de cuisine/Recettes auvergnate"
+      },
+      {
+        "id": 123,
+        "title": "Livre de cuisine/Gratin dauphinois"
+      },
+      {
+        "id": 166,
+        "title": "Livre de cuisine/Rouille (cuisine)"
+      },
+      {
+        "id": 179,
+        "title": "Livre de cuisine/Tourtou"
+      },
+      {
+        "id": 122,
+        "title": "Livre de cuisine/Magret de canard"
+      },
+      {
+        "id": 162,
+        "title": "Livre de cuisine/Prunat"
+      },
+      {
+        "id": 180,
+        "title": "Livre de cuisine/Truite au vin jaune"
+      },
+      {
+        "id": 116,
+        "title": "Livre de cuisine/Mousse au chocolat aux œufs cuits"
+      },
+      {
+        "id": 148,
+        "title": "Livre de cuisine/Pissaladière"
+      },
+      {
+        "id": 149,
+        "title": "Livre de cuisine/Macarons d'Amiens"
+      },
+      {
+        "id": 177,
+        "title": "Livre de cuisine/Tartines gratinées au sainte-maure-de-touraine"
+      },
+      {
+        "id": 147,
+        "title": "Livre de cuisine/Lapin chasseur"
+      },
+      {
+        "id": 159,
+        "title": "Livre de cuisine/Potée bourguignonne"
+      },
+      {
+        "id": 124,
+        "title": "Livre de cuisine/Gaudes"
+      },
+      {
+        "id": 157,
+        "title": "Livre de cuisine/Pastizzu"
+      },
+      {
+        "id": 153,
+        "title": "Livre de cuisine/Mousse au chocolat au cremovo"
+      },
+      {
+        "id": 112,
+        "title": "Livre de cuisine/Recettes franc-comtoise"
+      },
+      {
+        "id": 113,
+        "title": "Livre de cuisine/Macarons de Montmorillon"
+      },
+      {
+        "id": 114,
+        "title": "Livre de cuisine/Poulet de Janzé à la normande"
+      },
+      {
+        "id": 126,
+        "title": "Livre de cuisine/Pot-au-feu"
+      },
+      {
+        "id": 155,
+        "title": "Livre de cuisine/Mousse au chocolat légère"
+      },
+      {
+        "id": 150,
+        "title": "Livre de cuisine/Michon"
+      },
+      {
+        "id": 167,
+        "title": "Livre de cuisine/Rouille à la sétoise"
+      },
+      {
+        "id": 175,
+        "title": "Livre de cuisine/Tarte au comté"
+      },
+      {
+        "id": 118,
+        "title": "Livre de cuisine/Macarons Parisiens"
+      },
+      {
+        "id": 151,
+        "title": "Livre de cuisine/Mousse au chocolat"
+      },
+      {
+        "id": 165,
+        "title": "Livre de cuisine/Rôti de porc"
+      },
+      {
+        "id": 176,
+        "title": "Livre de cuisine/Tarte flambée"
+      },
+      {
+        "id": 154,
+        "title": "Livre de cuisine/Mousse au chocolat avec alcool"
+      },
+      {
+        "id": 163,
+        "title": "Livre de cuisine/Rapée"
+      },
+      {
+        "id": 168,
+        "title": "Livre de cuisine/Ruifard de Valbonnais"
+      },
+      {
+        "id": 144,
+        "title": "Livre de cuisine/Boissons/Cocktails/GDF"
+      },
+      {
+        "id": 170,
+        "title": "Livre de cuisine/Salade niçoise"
+      },
+      {
+        "id": 117,
+        "title": "Livre de cuisine/Tarte Tatin"
+      },
+      {
+        "id": 120,
+        "title": "Livre de cuisine/Boissons/Cocktails/TNT"
+      },
+      {
+        "id": 164,
+        "title": "Livre de cuisine/Riz à la Catalane"
+      },
+      {
+        "id": 152,
+        "title": "Livre de cuisine/Mousse au chocolat au cognac"
+      },
+      {
+        "id": 111,
+        "title": "Livre de cuisine/Recettes de la Provence"
+      }
+    ],
+    "de": [
+      {
+        "id": 66,
+        "title": "Kochbuch/ Sonneberger Klöße"
+      },
+      {
+        "id": 71,
+        "title": "Kochbuch/ Druckversion"
+      },
+      {
+        "id": 70,
+        "title": "Kochbuch/ Westfälisches Blindhuhn"
+      },
+      {
+        "id": 72,
+        "title": "Kochbuch/ Zwiebelkuchen"
+      },
+      {
+        "id": 61,
+        "title": "Kochbuch/ Neujahrshörnchen"
+      },
+      {
+        "id": 65,
+        "title": "Kochbuch/ Schmalznudeln"
+      },
+      {
+        "id": 69,
+        "title": "Kochbuch/ Westfälische Götterspeise"
+      },
+      {
+        "id": 67,
+        "title": "Kochbuch/ Spätzle"
+      },
+      {
+        "id": 68,
+        "title": "Kochbuch/ Struwen"
+      },
+      {
+        "id": 64,
+        "title": "Kochbuch/ Rheinische Muscheln"
+      },
+      {
+        "id": 62,
+        "title": "Kochbuch/ Nonnenfürzchen"
+      },
+      {
+        "id": 63,
+        "title": "Kochbuch/ Potthucke"
+      }
+    ]
+  },
+  "rank_rule": "FNV-1a 32-bit over JavaScript UTF-16 code units (charCodeAt), Math.imul overflow; key 20261108|language|title; sort ascending unsigned. This is deterministic hash ordering, not a probability sample. Candidate category is language-specific Wikibooks country/region category",
+  "selection_rule": "First four eligible recipe pages per language; skip navigation, missing capture, and no cooking directions; retain parser failures and pages with multiple recipes"
+}
